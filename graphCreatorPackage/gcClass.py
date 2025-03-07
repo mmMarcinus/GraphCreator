@@ -127,6 +127,3 @@ class interactiveGraphCreator:
         plt.show()
 
         return pts, edges
-
-creator = interactiveGraphCreator()
-creator.createGraph()

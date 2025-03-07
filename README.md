@@ -1,5 +1,5 @@
 # GraphCreator
 Python code using matplotlib allowing to fast create directed and undirected graphs using a keyboard
 
-#Tutorial
+# Tutorial
 coming soon

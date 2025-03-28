@@ -12,9 +12,9 @@ Second vertice state -> with our keyboard we set the number of the second vertic
 
 When the graph is ready, click q key on your keabord, graph creator class returns a list of vertices coordinates and a list of edges between them.
 
-## Keys:
-z -> remove recent added edge
-n -> swith current vertice to the second one
-b -> switch current vertice back to first one
-a -> (works only when on second vertice) add an edge between first vertice chosen and second vertice
+## Keys:\
+z -> remove recent added edge\
+n -> swith current vertice to the second one\
+b -> switch current vertice back to first one\
+a -> (works only when on second vertice) add an edge between first vertice chosen and second vertice\
 d -> set directed graph mode on/off
